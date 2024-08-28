@@ -1,1 +1,6 @@
-body {background-color: aqua;};
+body {
+background-color: rgb(4, 117, 117);
+text-align: center;
+
+}
+.imagem{width: 30%;}
